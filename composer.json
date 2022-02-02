@@ -10,7 +10,7 @@
         }
     ],
     "dist": {
-        "url": "https://github.com/difra-org/lib-mutex/archive/refs/tags/8.0.0.zip",
+        "url": "https://github.com/difra-org/lib-mutex/archive/refs/tags/8.0.1.zip",
         "type": "zip"
     },
     "repositories": [
@@ -20,7 +20,7 @@
         }
     ],
     "require": {
-        "difra/lib-mutex": "~8.0.0"
+        "difra/lib-cache": "~8.0.0"
     },
     "autoload": {
         "classmap": [
